@@ -35,7 +35,28 @@ https://www.anaconda.com/download/
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/khalilhijazi/Smiley-Dash-Game) for details on our code of conduct, and the process for submitting pull requests to us.
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
+
+Please be aware that this is a public space and other people's ideas must be respected as you'd like yours to be.
+
+Examples of behavior that contributes to creating a positive environment include:
+
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
+
+Examples of unacceptable behavior by participants include:
+
+* The use of sexualized language or imagery and unwelcome sexual attention or
+advances
+* Trolling, insulting/derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or electronic
+  address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+  professional setting
 
 ## Authors
 
